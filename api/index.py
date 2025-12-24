@@ -66,3 +66,4 @@ def get_info():
         return jsonify({"error": "Bypass failed. Meta is blocking this IP range."}), 403
 
 # Vercel entry
+# IP Rotation 1 
